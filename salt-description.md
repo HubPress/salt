@@ -15,25 +15,24 @@
 
 For the avearage person who just wants to write and share their thoughts, this list alone makes them turn away from a GitHub Pages solution and look to other "just use it" solutions such as WordPress, Medium, and Blogger.
 
+With [HubPress](http://hubpress.io) all you need is an Internet connection and a GitHub account and you can start blogging within a few minutes. To save or publish a post, one click in the editing interface is all that is required. HubPress takes all the rough edges out of the GitHub Pages blogging experience, and makes it as easy as using something like Blogger or WordPress.
+
 Because we love the **AsciiDoc** markup format, we wanted a way to introduce folks to the benefits of the markup language, while simultaneously contributing to the adoption of AsciiDoc as a writing format for professional writers and bloggers.
 
 These are the reasons why we made [HubPress](http://hubpress.io).
 
-To provide a better user experience, we made a web interface based on [Asciidoctor](http://asciidoctor.org) with [Asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js), which is the javascript version.
-
-With [HubPress](http://hubpress.io) all you need is an Internet connection and a GitHub account and you can start blogging within a few minutes. To save or publish a post, one click in the editing interface is all that is required. HubPress takes all the rough edges out of the GitHub Pages blogging experience, and makes it as easy as using something like Blogger or WordPress.
-
-[HubPress](http://hubpress.io) is :
+[HubPress](http://hubpress.io) is:
 
 1. **Easy to use**: no technical skills required.
-2. **Free**: no subscription, you don’t have to pay rent for a server.
-3. **Yours**: once HubPress is installed in your GitHub repository, you can do as you please with it.
+2. **Free**: no subscription, and you don’t have to pay rent for a server.
+3. **Yours**: once HubPress is forked installed in your GitHub repository, you can do as you please with it.
 
 [HubPress](http://hubpress.io) is inspired by [Ghost](http://ghost.org) and uses part of its code to render your blog.
+To provide a better user experience, we made a web interface based on [Asciidoctor](http://asciidoctor.org) with [Asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js), which is the javascript version.
 
 ## Why we need your help?
 
-Originally, HubPress started out as a proof of concept with Asciidoctor.js and IndexDB. However, With the overwhelming adoption of the platform (over 1000 unique forks on GitHub), HubPress is becoming harder to support and maintain in a way that will allow it to grow and evolve.
+Originally, HubPress started out as a proof of concept with Asciidoctor.js and IndexDB. However, With the overwhelming adoption of the platform (over 1600 unique forks on GitHub), HubPress is becoming harder to support and maintain in a way that will allow it to grow and evolve.
 
 ### Roadmap
 
